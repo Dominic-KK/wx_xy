@@ -1,0 +1,13 @@
+certifi==2021.5.30
+charset-normalizer==2.0.4
+future==0.18.2
+idna==3.2
+itchat==1.2.32
+jsonlines==2.0.0
+pip==21.2.2
+pypng==0.0.20
+PyQRCode==1.2.1
+requests==2.26.0
+setuptools==57.4.0
+urllib3==1.26.6
+wxpy==0.3.9.8
